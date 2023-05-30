@@ -9,7 +9,8 @@
 </template>
 
 <script>
-import MovieBox from './MovieBox.vue';
+import MovieBox from '../views/components/MovieBox.vue';
+
 
 export default {
   components: {
